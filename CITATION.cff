@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+title: "Notebooks for: On the Reparameterization Between Cartesian Position--Velocity Vectors and Orbital Elements in the Kepler Problem"
+authors:
+  - family-names: Masuda
+    given-names: Kento
+    # orcid: "https://orcid.org/0000-0000-0000-0000"
+version: "1.0.0"
+date-released: "2026-05-13"
+repository-code: "https://github.com/kemasuda/xv-reparam-paper"
+url: "https://github.com/kemasuda/xv-reparam-paper"
+abstract: "Jupyter notebooks used to reproduce the analysis and figures in the paper."
+keywords:
+  - orbital elements
+  - Cartesian coordinates
+  - Kepler problem
+  - Jupyter notebook
+license: "MIT"
