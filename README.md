@@ -1,4 +1,4 @@
-# Companion code for [Masuda & Nunota (2026)]()
+# Companion code for [Masuda & Nunota (2026)](https://arxiv.org/abs/2605.12982)
 
 This repository contains the notebooks and data used for selected analyses in the paper:
 
